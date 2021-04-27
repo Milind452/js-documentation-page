@@ -70,3 +70,16 @@ article {
 	color: #4d4e53;
 }
 
+code {
+	word-break: normal;
+	word-wrap: normal;
+	white-space: pre-line;
+	background-color: #f7f7f7;
+	display: block;
+	position: relative;
+	text-align: left;
+	padding: 15px;
+	line-height: 2;
+	margin: 10px;
+	border-radius: 5px;
+}
