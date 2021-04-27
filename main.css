@@ -66,8 +66,13 @@ body {
 	margin: 0px;
 }
 
+section {
+	margin-right: 20px;
+}
+
 article {
 	color: #4d4e53;
+	text-align: justify;
 }
 
 code {
