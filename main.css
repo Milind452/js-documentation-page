@@ -61,3 +61,12 @@ body {
 	margin-left: 320px;
 }
 
+#main-doc header {
+	text-align: left;
+	margin: 0px;
+}
+
+article {
+	color: #4d4e53;
+}
+
